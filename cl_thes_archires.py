@@ -117,7 +117,7 @@ class Term(object):
         subfields = [Subfield("a", koha_term.french)]
         if koha_term.english != None:
             subfields.append(Subfield("x", koha_term.english))
-        subfields.append(Subfield("0", self.uri))
+        subfields.append(Subfield("v", self.uri))
         subfields.append(Subfield("9", koha_term.id))
         return Field("610", indicators=Indicators(" ", " "), subfields=subfields)
 
