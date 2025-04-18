@@ -6,11 +6,11 @@ The format is inspired from [Keep a Changelog](https://keepachangelog.com/fr/1.1
 
 ## 2025-04-18
 
-### Ajouts
+### Added
 
 * New french alternate label for _Handicapé_ : _Personne en situation de handicap_ & _Personne handicapée_
 
-### Modifications
+### Changed
 
 * Updated english translation for _Handicapé_ from _Handicapped person_ to _Disabled person_
 
