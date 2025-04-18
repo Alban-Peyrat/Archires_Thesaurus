@@ -4,25 +4,71 @@ The format is inspired from [Keep a Changelog](https://keepachangelog.com/fr/1.1
 
 ## [Unreleased]
 
-### Added
+## 2025-04-18
 
-* Restore 4 lost terms (between 2018 & 2023) :
-  * _Organisation internationale_, narrower of _Politique_
-  * _Union Européenne_, narrower of _Organisation internationale_
-  * _Proxémie_, narrower of _Perception de l'espace_
-  * _Modèle culturel_, narrower of _Sociologie_ (or _Civilisation_)
-* New french alternate labels for :
-  * _Aire aménagée_ : _Champ de foire_
-  * _Accessibilité_ : _Espace inclusif_
-* [Maybe] Adding terms found in Koha but missing from the thesaurus :
-  * _Cave viticole_
-  * _Low tech_
-  
+### Ajouts
+
+* New french alternate label for _Handicapé_ : _Personne en situation de handicap_ & _Personne handicapée_
+
+### Modifications
+
+* Updated english translation for _Handicapé_ from _Handicapped person_ to _Disabled person_
+
+## 2025-04-15
+
+* Created terms :
+  * _Film d'étudiant_, narrower of _Cinéma-Art_
+  * _Information scientifique_, narrower of _Information_
+  * _Données de la recherche_, narrower of _Information scientifique_
+  * _Édition scientifique_, narrower of _Information scientifique_
+  * _Méthode d'observation participante_, narrower of _Méthodologie in situ_
+  * _Science ouverte_, narrower of _Méthodologie_
+  * _Espace commun_, narrower of _Logement_
+
 ### Changed
 
-* Updated english translations for :
-  * _Écologie appliquée_ : from _Écologie appliquée_ to _Applied ecology_
-  * _Handicapé_ : from _Handicapped person_ to _Disabled person_
+* Changed broader term for _Local collectif_, from _Pièce de l'habitation_ to _Espace commun_
+
+## 2025-01-29
+
+### Added
+
+* Created terms :
+  * _Travail saisonnier_, narrower of _Organisation du travail_
+  * _Incendie_, narrower of _Environnement_
+* Added scope note for _Totalitarisme_
+
+### Changed
+
+* _Deux roues_ & _Mobilité durable_ are now related terms
+
+## 2024-12-10
+
+### Added
+
+* Restore 3 lost terms between 2018 & 2023 :
+  * _Organisation internationale_, narrower of _Politique_
+  * _Proxémie_, narrower of _Perception de l'espace_
+  * _Modèle culturel_, narrower of _Sociologie_ (or _Civilisation_)
+* New french alternate label for _Chai_ : _Cave viticole_
+
+### Changed
+
+* Changed broader term for _Calcaire_, from _Typologie des matériaux_ to _Pierre_
+
+### Deleted
+
+* _Union européenne_, lost between 2018 & 2023, will not be restored
+
+## 2024-12-04
+
+### Fixed
+
+* Fixed label of the term inside _Architecture écologique_ scope note
+
+### Changed
+
+* Updated english translation of _Écologie appliquée_ : from _Écologie appliquée_ to _Applied ecology_
 
 ## 2024-10-21
 
@@ -109,7 +155,7 @@ _Only contains updates to preferred label in french or english, or term deletion
 * Updated french preferred labels for :
   * _Aide logique à la conception_ to _Outil numérique de conception_
   * _Architecture climatique_ to _Architecture bioclimatique_
-  * _Architecture mogole_ to _Architecture mogole_
+  * _Architecture mogole_ to _Architecture moghole_
   * _Abstraction géometrique_ to _Abstraction géométrique_
   * _Bionique_ to _Biomimétisme_
   * _Camping_ to _Terrain de camping_
@@ -139,3 +185,4 @@ _Only contains updates to preferred label in french or english, or term deletion
   * _Team Ten_
   * _UAM_
   * _Agriculture biodynamique_ (merged with _Agriculture biologique_)
+  * _Low tech_ (removed, use _Développement durable_ instead, 2021-03-18)
