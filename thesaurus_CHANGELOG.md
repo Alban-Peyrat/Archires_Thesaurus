@@ -4,6 +4,12 @@ The format is inspired from [Keep a Changelog](https://keepachangelog.com/fr/1.1
 
 ## [Unreleased]
 
+## 2025-04-20
+
+### Added
+
+* Added english translation for _Film d'étudiant_ : _Student film_
+
 ## 2025-04-18
 
 ### Added
