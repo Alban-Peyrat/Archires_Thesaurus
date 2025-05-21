@@ -1,4 +1,4 @@
-URI;arkId;fingerprint_prefLabel@fr;Opentheso_ID;Opentheso_prefLabel@fr;Opentheso_prefLabel@en;Koha_Archires_2024_ID;Koha_Archires_2024_prefLabel@fr;Koha_Archires_2024_prefLabel@en;Koha_Brise-es_2024_ID;Koha_Brise-es_2024_prefLabel@fr;Koha_Brise-es_2024_prefLabel@en;Alexandrie_IPRAUS_2024_ID;Alexandrie_IPRAUS_2024_prefLabel@fr;Alexandrie_IPRAUS_2024_prefLabel@en
+URI;arkId;fingerprint_prefLabel@fr;Opentheso_ID;Opentheso_prefLabel@fr;Opentheso_prefLabel@en;Koha_Archires_ID;Koha_Archires_prefLabel@fr;Koha_Archires_prefLabel@en;Koha_Brise-es_2024_ID;Koha_Brise-es_2024_prefLabel@fr;Koha_Brise-es_2024_prefLabel@en;Alexandrie_IPRAUS_2024_ID;Alexandrie_IPRAUS_2024_prefLabel@fr;Alexandrie_IPRAUS_2024_prefLabel@en
 https://n2t.net/ark:/99152/r5qql3d3-6;99152/r5qql3d3-6;mecanique ventilation;67717/T990-2055;Ventilation mécanique;Mechanical ventilation;61036;Ventilation mécanique;Mechanical ventilation;;;;7678;Ventilation mécanique;
 https://n2t.net/ark:/99152/r5g4nq7l-t;99152/r5g4nq7l-t;carte geologique;67717/T990-427;Carte géologique;Geological map;60425;Carte géologique;Geological map;378028;CARTE GEOLOGIQUE;;4101;Carte géologique;
 https://n2t.net/ark:/99152/r5vj40v1-v;99152/r5vj40v1-v;1930 annees;67717/T990-102;Années 1930;1930s;60715;Années 1930;1930s;;;;4880;Années 1930;
@@ -422,7 +422,7 @@ https://n2t.net/ark:/99152/r51x3jb3-0;99152/r51x3jb3-0;echelle;67717/T990-748;É
 https://n2t.net/ark:/99152/r5nnggjk-b;99152/r5nnggjk-b;image;67717/T990-1092;Image;Image;60272;Image;Image;384535;IMAGE;;3647;Image;
 https://n2t.net/ark:/99152/r5l061vg-v;99152/r5l061vg-v;comportement des materiaux;67717/T990-558;Comportement des matériaux;Material behaviour;60846;Comportement des matériaux;Material behaviour;376100;COMPORTEMENT DES MATERIAUX;;4256;Comportement des matériaux;
 https://n2t.net/ark:/99152/r56lng45-q;99152/r56lng45-q;bibliotheque;67717/T990-368;Bibliothèque;Library;59138;Bibliothèque;Library;375939;BIBLIOTHEQUE;;3153;Bibliothèque;
-https://n2t.net/ark:/99152/r5rb3jcc-w;99152/r5rb3jcc-w;architecture islamique;67717/T990-178;Architecture islamique; Islamic architecture;60455;Architecture islamique; Islamic architecture;377445;ARCHITECTURE ISLAMIQUE;;3333;Architecture islamique;
+https://n2t.net/ark:/99152/r5rb3jcc-w;99152/r5rb3jcc-w;architecture islamique;67717/T990-178;Architecture islamique;Islamic architecture;60455;Architecture islamique;Islamic architecture;377445;ARCHITECTURE ISLAMIQUE;;3333;Architecture islamique;
 https://n2t.net/ark:/99152/r5m9cwlf-j;99152/r5m9cwlf-j;funerarium;67717/7d3c2af2-df93-45e9-9041-0c90e97201f5;Funérarium;Funeral parlour;313885;Funérarium;Funeral parlour;;;;6535;Funérarium;
 https://n2t.net/ark:/99152/r5bxkw24-m;99152/r5bxkw24-m;futurisme;67717/T990-970;Futurisme;Futurism;59519;Futurisme;Futurism;376525;FUTURISME;;6540;Futurisme;
 https://n2t.net/ark:/99152/r5tlbjvc-h;99152/r5tlbjvc-h;de salle spectacle;67717/T990-1815;Salle de spectacle;Performance hall;59322;Salle de spectacle;Performance hall;377188;SALLE DE SPECTACLE;;3096;Salle de spectacle;
@@ -523,7 +523,7 @@ https://n2t.net/ark:/99152/r5rrkqhj-m;99152/r5rrkqhj-m;rue;67717/T990-1806;Rue;S
 https://n2t.net/ark:/99152/r5gl336l-5;99152/r5gl336l-5;denergie economie;67717/T990-771;Économie d'énergie;Energy conservation;60046;Économie d'énergie;Energy conservation;375629;ECONOMIE D'ENERGIE;;5747;Economie d'énergie;
 https://n2t.net/ark:/99152/r584pcnv-m;99152/r584pcnv-m;a chaleur pompe;67717/T990-1616;Pompe à chaleur;Heat pump;59691;Pompe à chaleur;Heat pump;377034;POMPE A CHALEUR;;6335;Pompe à chaleur;
 https://n2t.net/ark:/99152/r562cdn8-z;99152/r562cdn8-z;classes des lutte;67717/T990-1236;Lutte des classes;Class struggle;60377;Lutte des classes;Class struggle;376737;LUTTE DES CLASSES;;4953;Lutte des classes;
-https://n2t.net/ark:/99152/r5c644m5-v;99152/r5c644m5-v;handicape;67717/T990-1046;Handicapé;Handicapped person;59370;Handicapé;Handicapped person;376592;HANDICAPE;;6639;Handicapé;
+https://n2t.net/ark:/99152/r5c644m5-v;99152/r5c644m5-v;handicape;67717/T990-1046;Handicapé;Disabled person;59370;Handicapé;Disabled person;376592;HANDICAPE;;6639;Handicapé;
 https://n2t.net/ark:/99152/r503755p-0;99152/r503755p-0;transformateur;67717/T990-2000;Transformateur;Transformer;61104;Transformateur;Transformer;377334;TRANSFORMATEUR;;7649;Transformateur;
 https://n2t.net/ark:/99152/r5q9nlrd-k;99152/r5q9nlrd-k;topologie;67717/T990-1978;Topologie;Topology;59947;Topologie;Topology;377313;TOPOLOGIE;;7617;Topologie;
 https://n2t.net/ark:/99152/r5c4tk6p-0;99152/r5c4tk6p-0;restructuration urbaine;67717/T990-1788;Restructuration urbaine;Urban restructuring;59455;Restructuration urbaine;Urban restructuring;377168;RESTRUCTURATION URBAINE;;4453;Restructuration urbaine;
@@ -561,7 +561,7 @@ https://n2t.net/ark:/99152/r52hb9d3-v;99152/r52hb9d3-v;densification;67717/T990-
 https://n2t.net/ark:/99152/r5k0b8cx-2;99152/r5k0b8cx-2;construire de permis;67717/T990-1519;Permis de construire;Planning permission;59216;Permis de construire;Planning permission;376953;PERMIS DE CONSTRUIRE;;7193;Permis de construire;
 https://n2t.net/ark:/99152/r5sghrw7-6;99152/r5sghrw7-6;charpente metallique;67717/T990-484;Charpente métallique;Metal frame;59685;Charpente métallique;Metal frame;376030;CHARPENTE METALLIQUE;;4362;Charpente métallique;
 https://n2t.net/ark:/99152/r566j75k-c;99152/r566j75k-c;mitage;67717/T990-1329;Mitage;Urban sprawl;60387;Mitage;Urban sprawl;376810;MITAGE;;6974;Mitage;
-https://n2t.net/ark:/99152/r5854js0-4;99152/r5854js0-4;analyse institutionnelle;67717/T990-85;Analyse institutionnelle;Instituonal analysis;60636;Analyse institutionnelle;Instituonal analysis;375724;ANALYSE INSTITUTIONNELLE;;5316;Analyse institutionnelle;
+https://n2t.net/ark:/99152/r5854js0-4;99152/r5854js0-4;analyse institutionnelle;67717/T990-85;Analyse institutionnelle;Institutional analysis;60636;Analyse institutionnelle;Institutional analysis;375724;ANALYSE INSTITUTIONNELLE;;5316;Analyse institutionnelle;
 https://n2t.net/ark:/99152/r5jqnf3b-7;99152/r5jqnf3b-7;internat;67717/T990-1139;Internat;Boarding school;61099;Internat;Boarding school;;;;6737;Internat;
 https://n2t.net/ark:/99152/r5lt6c7x-h;99152/r5lt6c7x-h;construction de la technologie;67717/T990-1931;Technologie de la construction;Construction technology;59978;Technologie de la construction;Construction technology;377278;TECHNOLOGIE DE LA CONSTRUCTION;;5003;Technologie de la construction;
 https://n2t.net/ark:/99152/r5c78brm-0;99152/r5c78brm-0;reconstruction;67717/T990-1741;Reconstruction;Post-war reconstruction period;59209;Reconstruction;Post-war reconstruction period;377127;RECONSTRUCTION;;3806;Reconstruction;
@@ -598,7 +598,7 @@ https://n2t.net/ark:/99152/r536j50h-r;99152/r536j50h-r;stade;67717/T990-1871;Sta
 https://n2t.net/ark:/99152/r5tkf0gv-s;99152/r5tkf0gv-s;agents divers protection;67717/T990-1681;Protection agents divers;Protection for various agents;59430;Protection agents divers;Protection for various agents;;;;4938;Protection agents divers;
 https://n2t.net/ark:/99152/r5xmt62x-f;99152/r5xmt62x-f;industrialise pays;67717/T990-1491;Pays industrialisé;Industrialized country;60203;Pays industrialisé;Industrialized country;;;;7172;Pays industrialié;
 https://n2t.net/ark:/99152/r5n8nkgp-0;99152/r5n8nkgp-0;fort;67717/T990-957;Fort;Fort;59324;Fort;Fort;376517;FORT;;6517;Fort;
-https://n2t.net/ark:/99152/r5h2wf4s-j;99152/r5h2wf4s-j;appliquee ecologie;67717/T990-767;Écologie appliquée;Écologie appliquée;59479;Écologie appliquée;Écologie appliquée;376262;ECOLOGIE APPLIQUEE;;4425;Ecologie appliquée;
+https://n2t.net/ark:/99152/r5h2wf4s-j;99152/r5h2wf4s-j;appliquee ecologie;67717/T990-767;Écologie appliquée;Applied ecology;59479;Écologie appliquée;Applied ecology;376262;ECOLOGIE APPLIQUEE;;4425;Ecologie appliquée;
 https://n2t.net/ark:/99152/r5p7nrjq-9;99152/r5p7nrjq-9;boutique;67717/T990-387;Boutique;Shop;59262;Boutique;Shop;375951;BOUTIQUE;;3393;Boutique;
 https://n2t.net/ark:/99152/r58fk3kw-g;99152/r58fk3kw-g;architecture rurale;67717/T990-197;Architecture rurale;Rural architecture;60319;Architecture rurale;Rural architecture;375807;ARCHITECTURE RURALE;;3278;Architecture rurale;
 https://n2t.net/ark:/99152/r59l65v5-w;99152/r59l65v5-w;publique securite;67717/T990-1834;Sécurité publique;Public safety;61063;Sécurité publique;Public safety;;;;3838;Sécurité publique;
@@ -899,7 +899,7 @@ https://n2t.net/ark:/99152/r5cxqj5h-d;99152/r5cxqj5h-d;politique urbaine;67717/T
 https://n2t.net/ark:/99152/r5k3hxj8-8;99152/r5k3hxj8-8;lotissement;67717/T990-1232;Lotissement;Allotment;59434;Lotissement;Allotment;375648;LOTISSEMENT;;3678;Lotissement;
 https://n2t.net/ark:/99152/r5tvbn2m-c;99152/r5tvbn2m-c;030 environnement paysage;67717/T990-2136;030 Paysage - environnement;;415560;030 Paysage - environnement;;;;;3058;030 Paysage - environnement;
 https://n2t.net/ark:/99152/r5tt2jx5-h;99152/r5tt2jx5-h;habitat sousmarin;67717/T990-1042;Habitat sous-marin;Underwater housing;60547;Habitat sous-marin;Underwater housing;376589;HABITAT SOUS-MARIN;;6633;Habitat sous-marin;
-https://n2t.net/ark:/99152/r59m08s8-7;99152/r59m08s8-7;cinemaart;67717/T990-508;Cinéma-art;Cinematography;59730;Cinéma-art;Art moovie;;;;5056;Cinéma-art;
+https://n2t.net/ark:/99152/r59m08s8-7;99152/r59m08s8-7;cinemaart;67717/T990-508;Cinéma-art;Cinematography;59730;Cinéma-art;Cinematography;;;;5056;Cinéma-art;
 https://n2t.net/ark:/99152/r5chsjmt-2;99152/r5chsjmt-2;arbre;67717/T990-128;Arbre;Tree;61134;Arbre;Tree;375745;ARBRE;;4213;Arbre;
 https://n2t.net/ark:/99152/r537krvp-v;99152/r537krvp-v;toitureterrasse;67717/T990-1974;Toiture-terrasse;Roof deck;59555;Toiture-terrasse;Roof deck;377310;TOITURE-TERRASSE;;3880;Toiture-terrasse;
 https://n2t.net/ark:/99152/r5lj6t1c-c;99152/r5lj6t1c-c;restaurant;67717/T990-1784;Restaurant;Restaurant;60168;Restaurant;Restaurant;377165;RESTAURANT;;3394;Restaurant;
@@ -1141,7 +1141,7 @@ https://n2t.net/ark:/99152/r510g7hn-v;99152/r510g7hn-v;ecologique empreinte;6771
 https://n2t.net/ark:/99152/r5m6ghhh-x;99152/r5m6ghhh-x;controle de lenvironnement;67717/T990-610;Contrôle de l'environnement;Environmental engineer;59851;Contrôle de l'environnement;Environmental engineer;376128;CONTROLE DE L'ENVIRONNEMENT;;5916;Contrôle de l'environnement;
 https://n2t.net/ark:/99152/r5rgp86h-v;99152/r5rgp86h-v;carreau de platre;67717/T990-420;Carreau de plâtre;Plaster board;60266;Carreau de plâtre;Plaster board;;;;5813;Carreau de plâtre;
 https://n2t.net/ark:/99152/r5fxqs03-9;99152/r5fxqs03-9;art islamique;67717/T990-230;Art islamique;Islamic Art;60448;Art islamique;Islamic Art;378004;ART ISLAMIQUE;;3398;Art islamique;
-https://n2t.net/ark:/99152/r5xgb7wn-9;99152/r5xgb7wn-9;accident du travail;67717/T990-21;Accident du travail;workplace accident;60619;Accident du travail;workplace accident;;;;5217;Accident du travail;
+https://n2t.net/ark:/99152/r5xgb7wn-9;99152/r5xgb7wn-9;accident du travail;67717/T990-21;Accident du travail;Workplace accident;60619;Accident du travail;Workplace accident;;;;5217;Accident du travail;
 https://n2t.net/ark:/99152/r522t2b4-f;99152/r522t2b4-f;sanatorium;67717/T990-1817;Sanatorium;Sanatorium;60488;Sanatorium;Sanatorium;;;;7447;Sanatorium;
 https://n2t.net/ark:/99152/r5tgggb9-h;99152/r5tgggb9-h;ecosysteme;67717/T990-782;Écosystème;Ecosystem;60944;Écosystème;Ecosystem;;;;4231;Ecosystème;
 https://n2t.net/ark:/99152/r5kn4bm9-0;99152/r5kn4bm9-0;port;67717/T990-1627;Port;Port;60756;Port;Port;377042;PORT;;3773;Port;
@@ -1155,7 +1155,7 @@ https://n2t.net/ark:/99152/r5sj40pk-5;99152/r5sj40pk-5;complexe industriel;67717
 https://n2t.net/ark:/99152/r5xfj0hd-9;99152/r5xfj0hd-9;beton precontraint;67717/T990-365;Béton précontraint;Prestressed concrete;59768;Béton précontraint;Prestressed concrete;375936;BETON PRECONTRAINT;;5733;Béton précontraint;
 https://n2t.net/ark:/99152/r5dh7x65-t;99152/r5dh7x65-t;architecture immergee;67717/T990-175;Architecture immergée;Underwater architecture;59509;Architecture immergée;Underwater architecture;375787;ARCHITECTURE IMMERGEE;;5446;Architecture immergée;
 https://n2t.net/ark:/99152/r5tgt61h-7;99152/r5tgt61h-7;salissure;67717/T990-1812;Salissure;Dirt;59428;Salissure;Dirt;377186;SALISSURE;;7442;Salissure;
-https://n2t.net/ark:/99152/r5xwwshf-q;99152/r5xwwshf-q;darchitecte maison;67717/T990-1242;Maison d'architecte;Architec's house;59798;Maison d'architecte;Architec's house;376743;MAISON D'ARCHITECTE;;3258;Maison d'architecte;
+https://n2t.net/ark:/99152/r5xwwshf-q;99152/r5xwwshf-q;darchitecte maison;67717/T990-1242;Maison d'architecte;Architect's house;59798;Maison d'architecte;Architect's house;376743;MAISON D'ARCHITECTE;;3258;Maison d'architecte;
 https://n2t.net/ark:/99152/r5xt1xhb-x;99152/r5xt1xhb-x;discotheque;67717/T990-708;Discothèque;Nightclub;60870;Discothèque;Nightclub;377992;DISCOTHEQUE;;3395;Discothèque;
 https://n2t.net/ark:/99152/r5ktw6tq-9;99152/r5ktw6tq-9;062 communication information;67717/T990-2146;062 Information - communication;;415534;062 Information - communication;;;;;3068;062 Information - communication;
 https://n2t.net/ark:/99152/r5fv06mg-x;99152/r5fv06mg-x;hindouisme;67717/T990-1052;Hindouisme;Hinduism;60548;Hindouisme;Hinduism;376599;HINDOUISME;;3935;Hindouisme;
@@ -1738,7 +1738,7 @@ https://n2t.net/ark:/99152/r55lrs53-3;99152/r55lrs53-3;cour;67717/T990-626;Cour;
 https://n2t.net/ark:/99152/r5g43hpw-x;99152/r5g43hpw-x;vestibule;67717/T990-2064;Vestibule;Vestibule;60095;Vestibule;Vestibule;376461;VESTIBULE;;7689;Vestibule;
 https://n2t.net/ark:/99152/r5pdg232-2;99152/r5pdg232-2;casino;67717/T990-436;Casino;Casino;59406;Casino;Casino;375988;CASINO;;5827;Casino;
 https://n2t.net/ark:/99152/r54b1p4c-k;99152/r54b1p4c-k;art urbain;67717/T990-246;Art urbain;Urban art;59352;Art urbain;Urban art;375847;ART URBAIN;;3422;Art urbain;
-https://n2t.net/ark:/99152/r5mp6qb5-7;99152/r5mp6qb5-7;pise;67717/T990-1540;Pisé;Rammed earth;59468;Pisé;Adobe construction;376973;PISE;;7205;Pisé;
+https://n2t.net/ark:/99152/r5mp6qb5-7;99152/r5mp6qb5-7;pise;67717/T990-1540;Pisé;Rammed earth;59468;Pisé;Rammed earth;376973;PISE;;7205;Pisé;
 https://n2t.net/ark:/99152/r5cww4ns-j;99152/r5cww4ns-j;pedologie;67717/T990-1503;Pédologie;Pedology;59810;Pédologie;Pedology;376945;PEDOLOGIE;;4239;Pédologie;
 https://n2t.net/ark:/99152/r52hmkf8-0;99152/r52hmkf8-0;3d impression;67717/ac2aca1b-73d9-41ea-8d1f-dfaba0fd9f36;Impression 3D;3D Printing;328519;Impression 3D;3D Printing;;;;8012;Impression 3D;
 https://n2t.net/ark:/99152/r52lmj4m-k;99152/r52lmj4m-k;dart metier;67717/T990-1313;Métier d'art;Arts and crafts;60604;Métier d'art;Arts and crafts;;;;6957;Métier d'art;
@@ -1797,10 +1797,10 @@ https://n2t.net/ark:/99152/r5h1nwx0-t;99152/r5h1nwx0-t;neorationalisme;67717/T99
 https://n2t.net/ark:/99152/r5vfv32t-2;99152/r5vfv32t-2;littoral;67717/T990-1211;Littoral;Coastline;60082;Littoral;Coastline;376716;LITTORAL;;4412;Littoral;
 https://n2t.net/ark:/99152/r5319l3f-5;99152/r5319l3f-5;naturelle zone;67717/T990-2115;Zone naturelle;Natural area;60398;Zone naturelle;Natural area;376413;ZONE NATURELLE;;7757;Zone naturelle;
 https://n2t.net/ark:/99152/r5bddmk3-9;99152/r5bddmk3-9;gratteciel;67717/T990-1021;Gratte-ciel;Skyscraper;61097;Gratte-ciel;Skyscraper;376570;GRATTE-CIEL;;3564;Gratte-ciel;
-https://n2t.net/ark:/99152/r5m198dn-n;99152/r5m198dn-n;detudiant film;786198;Film d'étudiant;;;;;;;;;;
-https://n2t.net/ark:/99152/r5f4n6vm-m;99152/r5f4n6vm-m;transfrontaliere zone;67717/T990-2116;Zone transfrontalière;Cross-border area;60416;Zone transfrontalière;Cros-border area;377400;ZONE TRANSFRONTALIERE;;4545;Zone transfrontalière;
-https://n2t.net/ark:/99152/r5lds6x3-8;99152/r5lds6x3-8;riviere;67717/T990-1798;Rivière;Stream;60224;Rivière;;377174;RIVIERE;;3922;Rivière;
-https://n2t.net/ark:/99152/r52d4s7d-1;99152/r52d4s7d-1;mobilier urbain;67717/T990-1340;Mobilier urbain;Urban furniture;59742;Mobilier urbain;Urban property;376816;MOBILIER URBAIN;;3237;Mobilier urbain;
+https://n2t.net/ark:/99152/r5m198dn-n;99152/r5m198dn-n;detudiant film;786198;Film d'étudiant;Student film;509334;Film d'étudiant;Student film;;;;;;
+https://n2t.net/ark:/99152/r5f4n6vm-m;99152/r5f4n6vm-m;transfrontaliere zone;67717/T990-2116;Zone transfrontalière;Cross-border area;60416;Zone transfrontalière;Cross-border area;377400;ZONE TRANSFRONTALIERE;;4545;Zone transfrontalière;
+https://n2t.net/ark:/99152/r5lds6x3-8;99152/r5lds6x3-8;riviere;67717/T990-1798;Rivière;Stream;60224;Rivière;Stream;377174;RIVIERE;;3922;Rivière;
+https://n2t.net/ark:/99152/r52d4s7d-1;99152/r52d4s7d-1;mobilier urbain;67717/T990-1340;Mobilier urbain;Urban furniture;59742;Mobilier urbain;Urban furniture;376816;MOBILIER URBAIN;;3237;Mobilier urbain;
 https://n2t.net/ark:/99152/r5d7k8cl-g;99152/r5d7k8cl-g;architecte chef des en historiques monuments;67717/T990-140;Architecte en chef des Monuments historiques;;59126;Architecte en chef des Monuments historiques;;375758;ARCHITECTE EN CHEF DES MONUMENTS HISTORIQUES;;5382;Architecte en chef des Monuments historiques;
 https://n2t.net/ark:/99152/r5vwhbd0-h;99152/r5vwhbd0-h;ecologique resilience;67717/87ad0826-9351-4b3a-ba94-424739e47c9f;Résilience écologique;Ecological resilience;328491;Résilience écologique;Ecological resilience;;;;8021;Résilience écologique;
 https://n2t.net/ark:/99152/r5k8gng3-3;99152/r5k8gng3-3;eolienne;67717/T990-845;Éolienne;Wind turbine;60539;Éolienne;Wind turbine;376319;EOLIENNE;;6337;Eolienne;
@@ -1981,7 +1981,7 @@ https://n2t.net/ark:/99152/r5g7vm1c-f;99152/r5g7vm1c-f;ecologie;67717/T990-766;�
 https://n2t.net/ark:/99152/r556xw14-x;99152/r556xw14-x;prairie school;67717/T990-1643;Prairie School;Prairie School;59187;Prairie School;Prairie School;377055;PRAIRIE SCHOOL;;7282;Prairie School;
 https://n2t.net/ark:/99152/r5432tr0-p;99152/r5432tr0-p;college;67717/T990-539;Collège;Secondary school;60732;Collège;Secondary school;;;;5983;Collège;
 https://n2t.net/ark:/99152/r5tpj4p7-8;99152/r5tpj4p7-8;economique politique;67717/T990-1606;Politique économique;Economic policy;59600;Politique économique;Economic policy;377026;POLITIQUE ECONOMIQUE;;3567;Politique économique;
-https://n2t.net/ark:/99152/r5rncs1v-r;99152/r5rncs1v-r;archires bibliotheque numerique;67717/23004625-dd17-4a32-81c3-cd3540fdf23b;Bibliothèque numérique ArchiRès;;397420;Bibliothèque numérique ArchiRès;;;;;;;
+https://n2t.net/ark:/99152/r5rncs1v-r;99152/r5rncs1v-r;archires bibliotheque numerique;67717/23004625-dd17-4a32-81c3-cd3540fdf23b;Bibliothèque numérique ArchiRès;ArchiRès digital library;397420;Bibliothèque numérique ArchiRès;ArchiRès Digital library;;;;;;
 https://n2t.net/ark:/99152/r5m5grsm-7;99152/r5m5grsm-7;data visualisation;67717/940f278f-62f8-457e-96d5-afd2906b0510;Data visualisation;Data visualisation;350612;Data visualisation;Data visualisation;;;;;;
 https://n2t.net/ark:/99152/r5p4xlvk-h;99152/r5p4xlvk-h;autogere habitat;67717/T990-1031;Habitat autogéré;Self-managed housing;61109;Habitat autogéré;Self-managed housing;;;;3626;Habitat autogéré;
 https://n2t.net/ark:/99152/r5657w8k-k;99152/r5657w8k-k;planification territoriale;67717/T990-1583;Planification territoriale;Territorial planning;61128;Planification territoriale;Territorial planning;377002;PLANIFICATION TERRITORIALE;;4525;Planification territoriale;
@@ -2047,7 +2047,7 @@ https://n2t.net/ark:/99152/r5rww20v-q;99152/r5rww20v-q;du maison the;67717/T990-
 https://n2t.net/ark:/99152/r5gd8tk8-t;99152/r5gd8tk8-t;chaude eau sanitaire;67717/T990-745;Eau chaude sanitaire;Domestic hot water;59377;Eau chaude sanitaire;Domestic hot water;;;;3557;Eau chaude sanitaire;
 https://n2t.net/ark:/99152/r517wtbc-d;99152/r517wtbc-d;organisation spatiale;67717/T990-1432;Organisation spatiale;Spatial organization;59618;Organisation spatiale;Spatial organization;376887;ORGANISATION SPATIALE;;4537;Organisation spatiale;
 https://n2t.net/ark:/99152/r57363h0-x;99152/r57363h0-x;citejardin;67717/T990-518;Cité-jardin;Garden city;60926;Cité-jardin;Garden city;;;;3507;Cité-jardin;
-https://n2t.net/ark:/99152/r5srn61j-h;99152/r5srn61j-h;de fiction film;67717/T990-930;Film de fiction;Fiction film;303264;Film de fiction;Science fiction film;;;;6472;Film de fiction;
+https://n2t.net/ark:/99152/r5srn61j-h;99152/r5srn61j-h;de fiction film;67717/T990-930;Film de fiction;Fiction film;303264;Film de fiction;Fiction film;;;;6472;Film de fiction;
 https://n2t.net/ark:/99152/r5btt8b9-1;99152/r5btt8b9-1;architecture gothique;67717/T990-170;Architecture gothique;Gothic architecture;60453;Architecture gothique;Gothic architecture;;;;3621;Architecture gothique;
 https://n2t.net/ark:/99152/r5gkvqnr-2;99152/r5gkvqnr-2;kit;67717/T990-1187;Kit;Kit;60555;Kit;Kit;376689;KIT;;6808;Kit;
 https://n2t.net/ark:/99152/r5077lm2-q;99152/r5077lm2-q;archeologie;67717/T990-133;Archéologie;Archeology;59224;Archéologie;Archeology;375750;ARCHEOLOGIE;;3076;Archéologie;
@@ -2128,7 +2128,7 @@ https://n2t.net/ark:/99152/r5gllv7t-3;99152/r5gllv7t-3;escalier mecanique;67717/
 https://n2t.net/ark:/99152/r5x8h1cv-4;99152/r5x8h1cv-4;avion;67717/T990-283;Avion;Plane;59356;Avion;Plane;375866;AVION;;5625;Avion;
 https://n2t.net/ark:/99152/r5cx0r2s-f;99152/r5cx0r2s-f;biomasse de energie;67717/T990-816;Énergie de biomasse;Clean energy;60136;Énergie de biomasse;Clean energy;;;;6356;Energie verte;
 https://n2t.net/ark:/99152/r53wg3ss-h;99152/r53wg3ss-h;aeroport;67717/T990-37;Aéroport;Airport;60853;Aéroport;Airport;375690;AEROPORT;;3338;Aéroport;
-https://n2t.net/ark:/99152/r5g1mm8f-w;99152/r5g1mm8f-w;rapport villenature;67717/ee24f7e6-8681-4b1a-8de1-6ad7d6661b4f;Rapport ville-nature;Town-nature relationship;421332;Rapport ville-nature;;;;;;;
+https://n2t.net/ark:/99152/r5g1mm8f-w;99152/r5g1mm8f-w;rapport villenature;67717/ee24f7e6-8681-4b1a-8de1-6ad7d6661b4f;Rapport ville-nature;Town-nature relationship;421332;Rapport ville-nature;Town-environment relationship;;;;;;
 https://n2t.net/ark:/99152/r5n336m7-j;99152/r5n336m7-j;economique planification;67717/T990-1581;Planification économique;Economic planning;60209;Planification économique;Economic planning;377000;PLANIFICATION ECONOMIQUE;;7228;Planification économique;
 https://n2t.net/ark:/99152/r5fcwm9t-w;99152/r5fcwm9t-w;analyse de la valeur;67717/T990-78;Analyse de la valeur;Value analysis;59840;Analyse de la valeur;Value analysis;375721;ANALYSE DE LA VALEUR;;5311;Analyse de la valeur;
 https://n2t.net/ark:/99152/r5bhp1fn-q;99152/r5bhp1fn-q;irregulier jardin;67717/T990-1164;Jardin irrégulier;Irregular garden;61054;Jardin irrégulier;Irregular garden;;;;4429;Jardin irrégulier;
@@ -2229,7 +2229,7 @@ https://n2t.net/ark:/99152/r50psrfb-1;99152/r50psrfb-1;internet;67717/T990-1141;
 https://n2t.net/ark:/99152/r5fs8x4j-f;99152/r5fs8x4j-f;maconnerie;67717/T990-1239;Maçonnerie;Masonry;59232;Maçonnerie;Masonry;376740;MACONNERIE;;6873;Maçonnerie;
 https://n2t.net/ark:/99152/r5clld27-p;99152/r5clld27-p;tissu urbain;67717/T990-1967;Tissu urbain;Urban fabric;59215;Tissu urbain;Urban fabric;377308;TISSU URBAIN;;3206;Tissu urbain;
 https://n2t.net/ark:/99152/r56hn18q-2;99152/r56hn18q-2;palladienne villa;67717/T990-2069;Villa palladienne;Palladian villa;61106;Villa palladienne;Palladian villa;376454;VILLA PALLADIENNE;;3817;Villa palladienne;
-https://n2t.net/ark:/99152/r5j5q772-k;99152/r5j5q772-k;rapport villefleuve;67717/T990-1730;Rapport ville-fleuve;Town-river relationship;60807;Rapport ville-fleuve;Relationship between town and river;;;;4510;Rapport ville-fleuve;
+https://n2t.net/ark:/99152/r5j5q772-k;99152/r5j5q772-k;rapport villefleuve;67717/T990-1730;Rapport ville-fleuve;Town-river relationship;60807;Rapport ville-fleuve;Tonw-river relationship;;;;4510;Rapport ville-fleuve;
 https://n2t.net/ark:/99152/r555jdph-6;99152/r555jdph-6;art land;67717/T990-1194;Land art;Land art;59960;Land art;Land art;376695;LAND ART;;3741;Land art;
 https://n2t.net/ark:/99152/r5372s52-6;99152/r5372s52-6;architecture megalithique;67717/c92f170a-4511-421d-b231-78cd4d153823;Architecture mégalithique;Megalithic architecture;317927;Architecture mégalithique;Megalithic architecture;;;;7986;Architecture mégalithique;
 https://n2t.net/ark:/99152/r5vctsng-f;99152/r5vctsng-f;ferme urbaine;67717/27a8c19c-1aab-4c0a-bac3-3252c3fba355;Ferme urbaine;Urban farm;313915;Ferme urbaine;Urban farm;;;;4787;Ferme urbaine;
@@ -2326,5 +2326,17 @@ https://n2t.net/ark:/99152/r5l9bw5k-f;99152/r5l9bw5k-f;socialisme;67717/T990-185
 https://n2t.net/ark:/99152/r512p203-4;99152/r512p203-4;energie nucleaire;67717/T990-811;Énergie nucléaire;Nuclear power;60353;Énergie nucléaire;Nuclear power;376292;ENERGIE NUCLEAIRE;;5836;Energie nucléaire;
 https://n2t.net/ark:/99152/r5vdwdd6-5;99152/r5vdwdd6-5;chauffage le par sol;67717/2f54d03f-381b-488a-b649-0ca38b43c8b0;Chauffage par le sol;Floor heating;308223;Chauffage par le sol;Floor heating;;;;5918;Chauffage par le sol;
 https://n2t.net/ark:/99152/r5nlrttk-v;99152/r5nlrttk-v;court metrage;67717/e20ae07d-e038-44d5-9523-6e6ac3ee8a37;Court métrage;Short film;328507;Court métrage;Short film;;;;8041;Court métrage;
-https://n2t.net/ark:/99152/r5mr2hs0-c;99152/r5mr2hs0-c;agriculture de proximite;67717/df0df710-606c-4467-bbe5-a9641f371003;Agriculture de proximité;Local agriculture;350605;Agriculture de proximité;Local agriculture;;;;;;
+https://n2t.net/ark:/99152/r5mr2hs0-c;99152/r5mr2hs0-c;agriculture de proximite;67717/df0df710-606c-4467-bbe5-a9641f371003;Agriculture de proximité;Local agriculture;350605;Agriculture de proximité;Local agriculture;;;;9760;Agriculture de proximité;
 https://n2t.net/ark:/99152/r5wvgv87-7;99152/r5wvgv87-7;feminisme;67717/fb2c2351-7e1c-485d-9a31-41352b7973b1;Féminisme;Feminism;313859;Féminisme;Feminism;;;;3609;Féminisme;
+https://n2t.net/ark:/99152/r5t1nmh7-b;99152/r5t1nmh7-b;information scientifique;849113;Information scientifique;Communication in science;518060;Information scientifique;Communication in science;;;;;;
+https://n2t.net/ark:/99152/r5360fd8-t;99152/r5360fd8-t;ouverte science;849117;Science ouverte;Open science;518064;Science ouverte;Open science;;;;;;
+https://n2t.net/ark:/99152/r5skvj0f-8;99152/r5skvj0f-8;de donnees la recherche;849115;Données de la recherche;Research data;518061;Données de la recherche;Research data;;;;;;
+https://n2t.net/ark:/99152/r59p5mqn-d;99152/r59p5mqn-d;scientifique vulgarisation;849116;Vulgarisation scientifique;Popular science;518065;Vulgarisation scientifique;Popular science;;;;;;
+https://n2t.net/ark:/99152/r5tm6p77-2;99152/r5tm6p77-2;dobservation methode participante;849118;Méthode d'observation participante;Participant observation;518062;Méthode d'observation participante;Participant observation;;;;;;
+https://n2t.net/ark:/99152/r5vhf7ls-w;99152/r5vhf7ls-w;commun espace;849119;Espace commun;Common area;518066;Espace commun;Common area;;;;;;
+https://n2t.net/ark:/99152/r58txtfl-7;99152/r58txtfl-7;edition scientifique;849114;Édition scientifique;Science publishing;518063;Édition scientifique;Science publishing;;;;;;
+https://n2t.net/ark:/99152/r5htnv02-1;99152/r5htnv02-1;culturel modele;802226;Modèle culturel;Cultural model;59650;Modèle culturel;Cultural model;;;;;;
+https://n2t.net/ark:/99152/r5tvs93v-v;99152/r5tvs93v-v;proxemie;802225;Proxémie;Proxemics;303259;Proxémie;Proxemics;;;;;;
+https://n2t.net/ark:/99152/r5w1gxbg-k;99152/r5w1gxbg-k;internationale organisation;802459;Organisation internationale;International organization;60819;Organisation internationale;International organization;;;;;;
+https://n2t.net/ark:/99152/r5j9wg65-p;99152/r5j9wg65-p;incendie;802988;Incendie;Fire;513045;Incendie;Fire;;;;;;
+https://n2t.net/ark:/99152/r54ftpsj-h;99152/r54ftpsj-h;saisonnier travail;802995;Travail saisonnier;Seasonal work;513069;Travail saisonnier;Seasonal work;;;;;;

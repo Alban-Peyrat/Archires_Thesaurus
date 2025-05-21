@@ -42,13 +42,17 @@ The file is a CSV delimited by `;`, here are the columns :
 
 #### Supported datasource list
 
-1. *Opentheso* : Opentheso export from  2024 june 26th
-1. *Koha_Archires_Latest* : ArchiRès Koha latest export
-1. *Koha_Archires_2024* : ArchiRès Koha export from 2024 july 11th
+1. *Opentheso* : Opentheso latest export (2025 may 21st)
+    * _Last version was from 2024 june 26th_
+1. *Koha_Archires* : ArchiRès Koha latest export (2025 may 21st)
+    * _Last version was from 2024 july 11th_
 1. *Koha_Brise-es_2024* : BRISE-ES Koha export from 2024 july 11th (manual mapping is missing right now)
 1. *Alexandrie_IPRAUS_2024* : IPRAUS Alexandrie export from 2024 november 14th
 
-*Note : this file is based on `Archires_Structure_Technique\Opentheso\mapping_ids\mapping_thesaurus_archires_BDD_connues.csv`*.
+Notes :
+
+* This file is based on `Archires_Structure_Technique\Opentheso\mapping_ids\mapping_thesaurus_archires_BDD_connues.csv`
+* Datasources *Koha_Archires_Latest* & *Koha_Archires_2024* (ArchiRès Koha export from 2024 july 11th) were removed on 2025 may 21st
 
 ### Deprecated ARK table
 
